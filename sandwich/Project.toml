@@ -1,0 +1,4 @@
+name = "sandwich"
+uuid = "9629168d-7ea7-4cd3-8a7d-f99b196287eb"
+authors = ["Josh <j@j.com>"]
+version = "0.1.0"
